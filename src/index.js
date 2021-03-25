@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 //import PrimeraApp from './PrimeraApp';
 import CounterApp from './CounterApp';
-import './index.css';
+import './index.css'; //Con esto importamos la hoja de estilo en cascada
 
 
 /*const saludo = <h1>HOLA MUNDO</h1>;
